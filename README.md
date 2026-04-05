@@ -50,3 +50,6 @@ The application can be deployed on Hetzner with a simple setup such as:
 - one MySQL instance on the same server or separate managed environment
 - reverse proxy for HTTPS routing
 - persistent storage for uploads and generated media
+
+## Status
+This project is currently under development.
